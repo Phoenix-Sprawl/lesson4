@@ -2,51 +2,56 @@
 Q: 1
 Question:
 Calculator Program
+<br>
 Stage 1: Basic Calculator
 Create a calculator that takes two numbers and an operator (+, -, *, /) and shows the result.
-
+<br>
 Constraints:
-
 Handle division by zero
 Use if-elif-else statements
+<br>
 Example:
-
 Input: 10, 5, +
 Output: Result = 15
+
+
+<br>
 Stage 2: Add Result Check
 Extend Stage 1: After showing result, check if it's positive, negative, or zero and print accordingly.
-
+<br>
 Example:
-
 Input: 10, 5, -
 Output: 
 Result = 5
 Positive
+
+
+<br>
 Stage 3: Student Grade Calculator
 Task: Calculate student grade based on marks in 3 subjects.
 
 Input: Student name, 3 subject marks (0-100)
-
+<br>
 Calculate:
-
 Total marks
 Percentage = (total/300) * 100
+<br>
 Grade Logic:
-
 A: >= 75%
 B: >= 60%
 C: >= 40%
 F: < 40%
 Output: Name, Total, Percentage, Grade
-
+<br>
 Example:
-
 Input: Raj, 80, 70, 90
 Output: 
 Raj
 Total: 240/300
 Percentage: 80.0%
 Grade: A
+
+<br>
 SUBMISSION GUIDELINES
 Students can submit their solutions in the following formats:
 
